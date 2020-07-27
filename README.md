@@ -7,5 +7,5 @@ The objective of this project is to use JavaScript to append a UFO sightings dat
 1. JavaScript
 2. HTML/CSS
 
-## **[Website](https://armin-1337.github.io/UFO-Sightings)**
+## **[Website *CLICK FOR VISUALIZATION*](https://armin-1337.github.io/UFO-Sightings)**
  
